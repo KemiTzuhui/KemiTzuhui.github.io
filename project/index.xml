@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Tzuhui Wu</title>
+    <link>https://KemiTzuhui.github.io/project/</link>
+      <atom:link href="https://KemiTzuhui.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 27 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://KemiTzuhui.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://KemiTzuhui.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Move for Good - Exercise for drug rehabilitation</title>
+      <link>https://KemiTzuhui.github.io/project/external-project/</link>
+      <pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://KemiTzuhui.github.io/project/external-project/</guid>
+      <description>&lt;p&gt;In order to solve the problem of drug relapse, it is necessary to provide a system model of movement to help drug addicts, covering the &amp;ldquo;compulsory isolation period&amp;rdquo;, &amp;ldquo;social supervision period&amp;rdquo; and &amp;ldquo;social rehabilitation&amp;rdquo;. The whole process includes &amp;lsquo;fitness assessment&amp;rsquo;, &amp;rsquo;exercise intervention&amp;rsquo; and real-time &amp;rsquo;exercise data monitoring&amp;rsquo;.&lt;/p&gt;
+&lt;p&gt;With the increasing severity of global drug abuse, there is a need to optimise the exercise intervention drug treatment system to help drug treatment management agencies gain insight into the current physical condition of drug addicts. The project team has developed its own Big Data System for the physical health of drug addicts. The system allows for precise exercise safety monitoring and analysis of the physical health of drug addicts through big data, enabling &amp;ldquo;individual and precise&amp;rdquo; data control.&lt;/p&gt;
+&lt;p&gt;Sports safety monitoring systems &amp;ldquo;smart bracelet&amp;rdquo; - The project team has developed a wearable device for drug addicts, which can monitor and visualize the physical health of drug addicts with multiple indicators, and intelligently monitor exercise intensity in real time from four perspectives: heart rate, step count, step distance and calorie consumption. This enables accurate and reliable individual safety monitoring during exercise interventions.&lt;/p&gt;
+&lt;p&gt;Big data system for the physical health of drug addicts - The system allows for the evaluation of group exercise intervention data and its effects in each stage, as well as the visualisation and comparison of exercise intervention data for drug addicts. The digital management system is used to store and analyse data from the whole process of detoxification of drug addicts, to create comprehensive reports on drug addicts and to achieve intelligent management of exercise intervention rehabilitation.&lt;/p&gt;
+&lt;p&gt;Intelligent personalised health guidance app - The APP aims to provide accurate exercise intervention and emotional regulation services for drug addicts. The team has developed an intelligent and personalised exercise and health coaching programme to help drug addicts improve their physical fitness, increase their awareness and motivation to exercise, and provide a comprehensive exercise data management platform for drug addicts under social supervision.&lt;/p&gt;
+&lt;p&gt;My work focused on (1) investigating the anxiety and emotional distress of drug addicts, and conducting physical fitness assessments and interviews with them. (2) identifying the user&amp;rsquo;s current emotional state based on the data collected by the &amp;ldquo;Smart Bracelet&amp;rdquo;. Based on the identified emotions, music is recommended to regulate the user&amp;rsquo;s emotions. (3) Working with the team to design and develop an app based on the physical indicators and exercise status of drug addicts, such as heart rate, pace, step count and exercise duration, to visually display their exercise progress.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>VR shooting</title>
+      <link>https://KemiTzuhui.github.io/project/external-project-copy-2/</link>
+      <pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://KemiTzuhui.github.io/project/external-project-copy-2/</guid>
+      <description>&lt;p&gt;Unity VR game development, first-person perspective basement shooting monster game.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Botanical Garden AR Navigation</title>
+      <link>https://KemiTzuhui.github.io/project/internal-project/</link>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://KemiTzuhui.github.io/project/internal-project/</guid>
+      <description>&lt;p&gt;The botanical garden experience needs to be upgraded.
+The South China Botanical Garden has many conservation gardens, preserving more than 13,000 species of plants, but for everyday visitors, they are forced to walk around and look at random things, completely unable to understand and appreciate the wisdom and mystery of nature. The South China Botanical Garden covers an area of 300 hectares, and with its huge number of plants and vast area, visitors are often at a loss as to what to see on the tour route, and are unable to effectively find the seasonal must-see attractions, leaving the experience in need of upgrading.&lt;/p&gt;
+&lt;p&gt;Technological developments are transforming the travel and tourism industry.
+The integration of digital culture and tourism supported by new technologies such as 5G, VR and AR has become an important function in the high-quality development of the cultural industry and driving the internal circulation of the economy The function of Smart tours play a pivotal role in the construction of scenic wisdom. The Botanical Garden is an important tourism resource for the city. As an important tourism resource for the city, the botanical gardens are digital and intelligent. The trend is inevitable.&lt;/p&gt;
+&lt;p&gt;The current product interactivity is weak, and most navigation is based on voice navigation; the current market has poor personalization of the platform (product), the route guidance can not meet the needs of users, user viscosity is low. The design goal of this project is to create an interactive AR navigation with both route planning and flower knowledge in the botanical garden scene.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Beauty of Intangible Cultural Heritage - Guangzhou Tooth Carving</title>
+      <link>https://KemiTzuhui.github.io/project/external-project-copy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://KemiTzuhui.github.io/project/external-project-copy/</guid>
+      <description>&lt;p&gt;In a contemporary society where new technologies are constantly developing, many intangible cultural crafts are facing the dilemma of gradually their heritage. The main problems are that the crafts are complex and the economic benefits are slow in coming, so there are fewer and fewer inheritors; the inheritors are facing economic difficulties; some crafts only remain in the static protection of museums; the cultural and creative works are templated and mechanised, so the general public cannot feel the charm of the crafts; the general public lacks a personal understanding of intangible cultural crafts, etc. There is an urgent need for a new way to inherit intangible culture and to attract more people to learn more about it.&lt;/p&gt;
+&lt;p&gt;The co-design service platform integrates online and offline resources, providing services such as knowledge learing, craft learning, thematic creation, social interaction and merchandise purchase online, and offline carving activities created by craft inheritors in collaboration with non-traditional partners, the BOP community. Through the participation of public, more people will be attracted to learn and understand the culture of tooth carving, thus realising the heritage of tooth carving in Guangzhou.&lt;/p&gt;
+&lt;p&gt;The main products that work with the Co-design Service Platform are the APP and the mystery boxes. Users can book offline activities on the APP, working with other users of different professional backgrounds to create carvings. For those who are unable to participate in offline activities, the APP also provides an online event portal where users can purchase material kits and instructional videos to create their own work at home. The APP also provides certain free teaching videos and incorporates VR videos into the online teaching. In addition, the APP also has a social function that allows users to share their creation process and results. After the offline activities, the platform collects and selects the works created by the users, and invites tooth carving craftsmen to re-process them and make them into a series of themed mystery boxes. The mystery boxes will be sold on the APP.&lt;/p&gt;
+&lt;p&gt;The platform was a start-up project with a fund of RMB 200,000, which was self-funded by the team members. The subsequent reinvestment capital is RMB 3 million, of which 20% comes from the investment of the Folk Craft Museum, 80% is raised by the team members at a later stage, 50% of the self-financing fund comes from the rest of the cooperative investment and public fund donations, 20% is self-financed by the student team and 10% comes from online crowdfunding. The main profit point comes from the platform&amp;rsquo;s drawback income, with a payback period of about 2 years, and has good operation and profitability.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

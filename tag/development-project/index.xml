@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Development project | Tzuhui Wu</title>
+    <link>https://KemiTzuhui.github.io/tag/development-project/</link>
+      <atom:link href="https://KemiTzuhui.github.io/tag/development-project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Development project</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 27 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://KemiTzuhui.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Development project</title>
+      <link>https://KemiTzuhui.github.io/tag/development-project/</link>
+    </image>
+    
+    <item>
+      <title>Move for Good - Exercise for drug rehabilitation</title>
+      <link>https://KemiTzuhui.github.io/project/external-project/</link>
+      <pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://KemiTzuhui.github.io/project/external-project/</guid>
+      <description>&lt;p&gt;In order to solve the problem of drug relapse, it is necessary to provide a system model of movement to help drug addicts, covering the &amp;ldquo;compulsory isolation period&amp;rdquo;, &amp;ldquo;social supervision period&amp;rdquo; and &amp;ldquo;social rehabilitation&amp;rdquo;. The whole process includes &amp;lsquo;fitness assessment&amp;rsquo;, &amp;rsquo;exercise intervention&amp;rsquo; and real-time &amp;rsquo;exercise data monitoring&amp;rsquo;.&lt;/p&gt;
+&lt;p&gt;With the increasing severity of global drug abuse, there is a need to optimise the exercise intervention drug treatment system to help drug treatment management agencies gain insight into the current physical condition of drug addicts. The project team has developed its own Big Data System for the physical health of drug addicts. The system allows for precise exercise safety monitoring and analysis of the physical health of drug addicts through big data, enabling &amp;ldquo;individual and precise&amp;rdquo; data control.&lt;/p&gt;
+&lt;p&gt;Sports safety monitoring systems &amp;ldquo;smart bracelet&amp;rdquo; - The project team has developed a wearable device for drug addicts, which can monitor and visualize the physical health of drug addicts with multiple indicators, and intelligently monitor exercise intensity in real time from four perspectives: heart rate, step count, step distance and calorie consumption. This enables accurate and reliable individual safety monitoring during exercise interventions.&lt;/p&gt;
+&lt;p&gt;Big data system for the physical health of drug addicts - The system allows for the evaluation of group exercise intervention data and its effects in each stage, as well as the visualisation and comparison of exercise intervention data for drug addicts. The digital management system is used to store and analyse data from the whole process of detoxification of drug addicts, to create comprehensive reports on drug addicts and to achieve intelligent management of exercise intervention rehabilitation.&lt;/p&gt;
+&lt;p&gt;Intelligent personalised health guidance app - The APP aims to provide accurate exercise intervention and emotional regulation services for drug addicts. The team has developed an intelligent and personalised exercise and health coaching programme to help drug addicts improve their physical fitness, increase their awareness and motivation to exercise, and provide a comprehensive exercise data management platform for drug addicts under social supervision.&lt;/p&gt;
+&lt;p&gt;My work focused on (1) investigating the anxiety and emotional distress of drug addicts, and conducting physical fitness assessments and interviews with them. (2) identifying the user&amp;rsquo;s current emotional state based on the data collected by the &amp;ldquo;Smart Bracelet&amp;rdquo;. Based on the identified emotions, music is recommended to regulate the user&amp;rsquo;s emotions. (3) Working with the team to design and develop an app based on the physical indicators and exercise status of drug addicts, such as heart rate, pace, step count and exercise duration, to visually display their exercise progress.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>VR shooting</title>
+      <link>https://KemiTzuhui.github.io/project/external-project-copy-2/</link>
+      <pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://KemiTzuhui.github.io/project/external-project-copy-2/</guid>
+      <description>&lt;p&gt;Unity VR game development, first-person perspective basement shooting monster game.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
